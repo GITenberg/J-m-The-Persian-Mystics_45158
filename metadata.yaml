@@ -1,0 +1,38 @@
+_repo: J-m-The-Persian-Mystics_45158
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45158-h/images/cover_jami01.jpg
+creator:
+  author:
+    agent_name: Jami
+    alias: Jami, Nur al-Din 'Abd al-Rahman
+    birthdate: 1414
+    deathdate: 1492
+    gutenberg_agent_id: '25391'
+    url: http://www.gutenberg.org/2009/agents/25391
+    wikipedia: http://en.wikipedia.org/wiki/Jami
+  editor:
+    agent_name: Davis, F. Hadland (Frederick Hadland)
+    alias: Davis, Frederick Hadland
+    gutenberg_agent_id: '6439'
+    url: http://www.gutenberg.org/2009/agents/6439
+description: ''
+gutenberg_issued: '2014-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45158'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jami, 1414-1492'
+- !lcc 'PK'
+- !lcsh 'Persian literature -- History and criticism'
+- !lcsh 'Persian literature -- Translations into English'
+tableOfContents: Introduction -- The life of Jámí -- The story of "Salámán and Absál"
+  -- The teaching of the "Lawá'ih" -- The story of "Yúsuf and Zulaikha" -- The "Baháristán,"
+  or "Abode of Spring."
+title: 'The Persian Mystics: Jámí'
+url: http://www.gutenberg.org/ebooks/45158
